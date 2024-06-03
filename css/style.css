@@ -1,0 +1,87 @@
+/* Font: danfo */
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+
+/* font: embed */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* font: poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Codigo estilo */
+
+#bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#danfo {
+  font-family: "Danfo", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELSH" 0;
+}
+
+.poppins {
+  font-family: Poppins;
+}
+
+#titleLogo {
+  font-family: "Danfo";
+  font-size: 70px;
+  color: #000;
+}
+
+nav {
+  background-color: #ffffff;
+  transition: 0.2s;
+}
+
+#fundoHistoria {
+  background-color: 'white';
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.LinkDecoration {
+  background-color: #000;
+}
+
+.LinkDecoration a {
+  color: #ffffff;
+}
+
+.div-image {
+  display: inline;
+}
+
+.image {
+  width: 30%;
+  transition: 0.4s;
+}
+
+.image:hover {
+  width: 31%;
+}
+
+footer {
+  background-color: #000;
+  height: 200px;
+  width: 100%;
+  margin-top: 200px;
+}
+
+.texto-Image {
+  position: relative;
+}
+
+#imagePista{
+  width: 700px;
+}
